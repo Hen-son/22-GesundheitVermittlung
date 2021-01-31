@@ -1,7 +1,3 @@
-# Applications
+# Neoliberale Stadt
 
-Some _significant_ applications are demonstrated in this chapter.
-
-## Example one
-
-## Example two
+Sitzung am 20.04.2021
