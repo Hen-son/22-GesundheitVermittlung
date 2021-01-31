@@ -1,0 +1,13 @@
+{
+    "sortOrder": [
+        {
+            "columnIndex": 2,
+            "ascending": true
+        },
+        {
+            "columnIndex": 4,
+            "ascending": false
+        }
+    ],
+    "path": "~/Documents/Arbeit/Lehre Archiv/2021_VS_PolGeo/StadtPol"
+}
