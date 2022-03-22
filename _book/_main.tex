@@ -1,0 +1,396 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  ngerman,
+]{article}
+\title{Studienprojekt Gesundheitsgerechtigkeit - Kritik und Vermittlung}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Institut für Soziologie \& Geographisches Institut, Humboldt-Universität zu Berlin, SoSe 2022}
+\author{PD Dr.~Henning Füller \and PD Dr.~Henrik Lebuhn}
+\date{}
+
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Studienprojekt Gesundheitsgerechtigkeit - Kritik und Vermittlung},
+  pdfauthor={PD Dr.~Henning Füller; PD Dr.~Henrik Lebuhn},
+  pdflang={de},
+  colorlinks=true,
+  linkcolor={Maroon},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={blue},
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1in]{geometry}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newlength{\cslentryspacingunit} % times entry-spacing
+\setlength{\cslentryspacingunit}{\parskip}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+  \let\oldpar\par
+  \def\par{\hangindent=\cslhangindent\oldpar}
+  \fi
+  % set entry spacing
+  \setlength{\parskip}{#2\cslentryspacingunit}
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+\AtBeginDocument{\renewcommand{\contentsname}{Seminarplan}} \usepackage{titling} \pretitle{\begin{center} \hfill\includegraphics[width=1.5in]{husiegel.pdf}\LARGE\\\vspace{0.8cm}} \posttitle{\end{center}}
+\ifXeTeX
+  % Load polyglossia as late as possible: uses bidi with RTL langages (e.g. Hebrew, Arabic)
+  \usepackage{polyglossia}
+  \setmainlanguage[]{german}
+\else
+  \usepackage[main=ngerman]{babel}
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+\fi
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\begin{document}
+\maketitle
+
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+\newpage
+
+\hypertarget{allgemeines}{%
+\section*{Allgemeines}\label{allgemeines}}
+\addcontentsline{toc}{section}{Allgemeines}
+
+\begin{itemize}
+\item
+  Seminarorganisation erfolgt über Moodle - \href{https://moodle.hu-berlin.de/course/view.php?id=110268}{Gesundheitsgerechtigkeit - Kritik und Vermittlung} (Einschreibeschlüssel: Virchow).
+\item
+  Das Seminar findet wöchentlich Montags von 10:15 Uhr bis 13:45 Uhr statt. Raum:
+\item
+  Als unterstützendes Whiteboard für die Visualisierung der Diskussion nutzen wir das \href{https://miro.com/app/board/uXjVOF6MyAc=/?invite_link_id=891179698806}{Miroboard - SP Gesundheitsgerechtigkeit}.
+\end{itemize}
+
+\hypertarget{zielsetzung}{%
+\section*{Zielsetzung}\label{zielsetzung}}
+
+Covid hat erneut ein Schlaglicht auf die Bedeutung von räumlichen Faktoren für Fragen von Gesundheit und sozialer Gerechtigkeit geworfen. In Stadtplanung und Public Health wird neuerdings verstärkt ein Setting-Ansatz propagiert, der die Bedeutung von Nachbarschaft, räumlichem Umfeld und Umweltfaktoren für Gesundheit und Wohlergehen unterstreicht. Berlin hat bereits 2016 Umweltgerechtigkeit zu einer Zielvorgabe gemacht und nimmt hier bundes- und europaweit eine Vorreiterrolle ein. Auch die feministischen Debatten um Care und Sorgearbeit werden in den vergangenen Jahren verstärkt in der Stadtforschung, Raumplanung und Architektur rezipiert. Zugleich zeigt sich, dass die Messung, Kategorisierung und sozialräumliche Verortung von Strukturen, Bedingungen und Prozessen auf dem Feld der Gesundheitsforschung mit großen Herausforderungen verbunden ist.
+
+In dem Seminar wollen wir uns zunächst in die aktuelle Literatur einlesen (Environmental Justice, Kritische Sozialepidemiologie, Kritische Kartographie, stadtsoziologische Care-Ansätze) und mit den konzeptionellen und empirischen Schwierigkeiten auseinandersetzen. Auf dieser Grundlage wollen wir dann eigene mediale Formate entwickeln und erstellen, die das Thema Umweltgerechtigkeit für eine breitere Öffentlichkeit an greifbaren Beispielen zugänglich und verständlich machen, und dabei auch die impliziten Voraussetzungen kritisch reflektieren. Denkbar wäre unter anderem die Konzeption einer Wanderausstellung in den Berliner Stadtteilbibliotheken oder auch die Zusammenstellung einer Handreichung für Lehrkräfte oder politische Bildner*innen.
+
+Das Seminar wird im co-teaching Format unterrichtet und wendet sich vor allem an Studierende der Geographie und der Sozialwissenschaften.
+
+\hypertarget{literatur-zum-einstieg}{%
+\subsection*{Literatur zum Einstieg}\label{literatur-zum-einstieg}}
+
+\begin{itemize}
+\tightlist
+\item
+  Dzudzek, Iris und Anke Strüver. 2020. Urbane Gesundheitsgerechtigkeit. \emph{Geographische Zeitschrift}. doi: \href{https://doi.org/10.25162/gz-2020-0005}{10.25162/gz-2020-0005} .
+\item
+  Gabauer, Angelika et al (2022): \emph{Care and the City. Encounters with Urban Studies}, Routledge.
+\item
+  Orangotango. 2018. \emph{This is not an Atlas. A Global Collection of Counter-Cartographies}. Bielefeld: transcript.
+\end{itemize}
+
+\hypertarget{anforderungen}{%
+\section*{Anforderungen}\label{anforderungen}}
+
+Bei einem Studienprojekt steht die projekthafte Erarbeitung im Vordergrund. Zentral ist die Auseinandersetzung und Erstellung eines \ldots{}
+
+\hypertarget{uxfcberblick-leistungsanforderungen}{%
+\subsection*{Überblick Leistungsanforderungen}\label{uxfcberblick-leistungsanforderungen}}
+
+::hier noch anpassen/überarbeiten::
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Pflichtlektüre} Zu jeder Sitzung ist ein Text angegeben (ca. 20 - 40 Seiten), der verpflichtend von allen zu lesen ist als Basis für die Diskussion.
+\item
+  \textbf{Lektüreimpuls und Kommentar} Zu der Pflichtlektüre ist jeweils ein Lektüreimpuls angegeben. Das sind zumeist zentrale Zitate oder Begriffe aus dem jeweiligen Text. Jede/r Teilnehmer*in formuliert eine kurze Antwort auf diesen Impuls. Die Antworten werden über Moodle ausgetauscht und gegenseitig kommentiert. Diese Auseinandersetzung im Vorfeld informiert und strukturiert die Diskussion im Seminar.
+\item
+  \textbf{Referat} Zu den meisten Sitzungen ist ein weiterführender Text angegeben. Die Lektüre ist empfohlen aber optional. Zu einer Sitzung bereitet jede/r Teilnehmer*in einen kurzen Input vor, der auf diesem zusätzlichen Text basiert und ggf. weitere eigene Recherche zum Thema umfasst.
+\end{enumerate}
+
+\begin{itemize}
+\tightlist
+\item
+  Mündlicher Input (Dauer max.: 30 min.) zum Referatstext, dabei soll - soweit möglich - an den Basistext angeknüpft werden.
+\item
+  Allgemeine Leitfragen für den Input: Was sind die zentralen Fragestellungen, Themen und Argumente des Textes? Inwiefern ist der Entstehungskontext des Textes zu berücksichtigen? Wie stehen der Referatstext und der Basistext miteinander in Verbindung? Wo besteht Ihrer Meinung nach Diskussionsbedarf?
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\tightlist
+\item
+  \textbf{Modulabschlussprüfung} Das Modul wird mit einer Prüfung in Form einer wissenschaftlichen Hausarbeit abgeschlossen. In der Hausarbeit wird eine Aspekt der Diskussion im Seminar aufgegriffen und unter Einbezug von weiterer Literatur vertieft (25.000 - 30.000 Zeichen).
+\end{enumerate}
+
+\begin{itemize}
+\tightlist
+\item
+  Das Thema kann im Rahmen der Seminarinhalte in vorausgehender Absprache frei gewählt werden
+\item
+  Abgabe als pdf bis zum 30.03.2022 via Moodle
+\end{itemize}
+
+\pagebreak
+
+\hypertarget{einfuxfchrung}{%
+\section*{Einführung}\label{einfuxfchrung}}
+\addcontentsline{toc}{section}{Einführung}
+
+\hypertarget{sitzung-am-25.04.-einfuxfchrung}{%
+\subsection*{1. Sitzung am 25.04. -- Einführung}\label{sitzung-am-25.04.-einfuxfchrung}}
+\addcontentsline{toc}{subsection}{1. Sitzung am 25.04. -- Einführung}
+
+In der ersten Sitzung besprechen wir Seminarplan, Seminarorganisation und Leistungsanforderungen. Wir verabreden die Termine für Präsentationen der Teilnehmer:innen.
+
+\hypertarget{konzepte}{%
+\section*{Konzepte}\label{konzepte}}
+\addcontentsline{toc}{section}{Konzepte}
+
+\hypertarget{sitzung-am-02.05.-gesundheit-und-ungleichheit-in-der-stadt}{%
+\subsection*{2. Sitzung am 02.05. \textbar{} Gesundheit und Ungleichheit in der Stadt}\label{sitzung-am-02.05.-gesundheit-und-ungleichheit-in-der-stadt}}
+\addcontentsline{toc}{subsection}{2. Sitzung am 02.05. \textbar{} Gesundheit und Ungleichheit in der Stadt}
+
+Gesundheit und Ungleichheit in der Stadt
+
+Kritische Sozialepidemiologie
+
+\textbf{Textarbeit}
+
+Lesetext für alle: (Dzudzek und Strüver 2020)
+
+\textbf{Projektarbeit}
+
+\hypertarget{sitzung-am-09.05.-visualisierung-des-sozialen}{%
+\subsection*{3. Sitzung am 09.05. \textbar{} Visualisierung des Sozialen}\label{sitzung-am-09.05.-visualisierung-des-sozialen}}
+\addcontentsline{toc}{subsection}{3. Sitzung am 09.05. \textbar{} Visualisierung des Sozialen}
+
+Visualisierung des Sozialen - thematische Kartographie und ihre Fallstricke
+
+\textbf{Textarbeit}
+
+Lesetext für alle:
+
+\textbf{Projektarbeit}
+
+\hypertarget{sitzung-am-16.05.-didaktik-und-planung-der-projekte}{%
+\subsection*{4. Sitzung am 16.05. \textbar{} Didaktik und Planung der Projekte}\label{sitzung-am-16.05.-didaktik-und-planung-der-projekte}}
+\addcontentsline{toc}{subsection}{4. Sitzung am 16.05. \textbar{} Didaktik und Planung der Projekte}
+
+Did
+
+Externe Beteiligung
+
+Gruppeneinteilung
+
+\textbf{Textarbeit}
+
+Lesetext für alle:
+
+\textbf{Projektarbeit}
+
+\hypertarget{kontext}{%
+\section*{Kontext}\label{kontext}}
+\addcontentsline{toc}{section}{Kontext}
+
+\hypertarget{sitzung-am-23.05.-berlin-i---exkursion-gesundheitszentrume}{%
+\subsection*{5. Sitzung am 23.05. \textbar{} Berlin I - Exkursion Gesundheitszentrume}\label{sitzung-am-23.05.-berlin-i---exkursion-gesundheitszentrume}}
+\addcontentsline{toc}{subsection}{5. Sitzung am 23.05. \textbar{} Berlin I - Exkursion Gesundheitszentrume}
+
+\textbf{Textarbeit}
+
+Lesetext für alle:
+
+\textbf{Projektarbeit}
+
+\hypertarget{sitzung-am-30.05.-berlin-ii---atlas-umweltgerechtigkeit}{%
+\subsection*{6. Sitzung am 30.05. \textbar{} Berlin II - Atlas Umweltgerechtigkeit}\label{sitzung-am-30.05.-berlin-ii---atlas-umweltgerechtigkeit}}
+\addcontentsline{toc}{subsection}{6. Sitzung am 30.05. \textbar{} Berlin II - Atlas Umweltgerechtigkeit}
+
+\textbf{Textarbeit}
+
+Lesetext für alle:
+
+\textbf{Projektarbeit}
+
+\hypertarget{sitzung-am-06.06-entfuxe4llt-pfingsten}{%
+\subsection*{Sitzung am 06.06 entfällt (Pfingsten)}\label{sitzung-am-06.06-entfuxe4llt-pfingsten}}
+\addcontentsline{toc}{subsection}{Sitzung am 06.06 entfällt (Pfingsten)}
+
+\hypertarget{projekt}{%
+\section*{Projekt}\label{projekt}}
+\addcontentsline{toc}{section}{Projekt}
+
+\hypertarget{sitzung-am-13.05.-start-projektphase}{%
+\subsection*{7. Sitzung am 13.05. \textbar{} Start Projektphase}\label{sitzung-am-13.05.-start-projektphase}}
+\addcontentsline{toc}{subsection}{7. Sitzung am 13.05. \textbar{} Start Projektphase}
+
+Themen der Projektgruppen festlegen
+
+Rahmen diskutieren
+
+\textbf{Textarbeit}
+
+Lesetext für alle:
+
+\textbf{Projektarbeit}
+
+\hypertarget{sitzung-am-20.06.-eigenstuxe4ndige-projektarbeit}{%
+\subsection*{8. Sitzung am 20.06. \textbar{} eigenständige Projektarbeit}\label{sitzung-am-20.06.-eigenstuxe4ndige-projektarbeit}}
+\addcontentsline{toc}{subsection}{8. Sitzung am 20.06. \textbar{} eigenständige Projektarbeit}
+
+\textbf{Textarbeit}
+
+Lesetext für alle:
+
+\textbf{Projektarbeit}
+
+\hypertarget{sitzung-am-27.06.}{%
+\subsection*{9. Sitzung am 27.06. \textbar{}}\label{sitzung-am-27.06.}}
+\addcontentsline{toc}{subsection}{9. Sitzung am 27.06. \textbar{}}
+
+\textbf{Textarbeit}
+
+Lesetext für alle:
+
+\textbf{Projektarbeit}
+
+\hypertarget{sitzung-am-04.07.-pruxe4sentation-gruppe-1-gruppe-2-und-3}{%
+\subsection*{10. Sitzung am 04.07. \textbar{} Präsentation Gruppe 1, Gruppe 2 und 3}\label{sitzung-am-04.07.-pruxe4sentation-gruppe-1-gruppe-2-und-3}}
+\addcontentsline{toc}{subsection}{10. Sitzung am 04.07. \textbar{} Präsentation Gruppe 1, Gruppe 2 und 3}
+
+\textbf{Textarbeit}
+
+Lesetext für alle:
+
+\textbf{Projektarbeit}
+
+\begin{itemize}
+\tightlist
+\item
+  Präsentation Gruppe 1
+\item
+  Präsentation Gruppe 2
+\item
+  Präsentation Gruppe 3
+\end{itemize}
+
+\hypertarget{sitzung-am-11.07.-pruxe4sentation-gruppe-4-und-5}{%
+\subsection*{11. Sitzung am 11.07. \textbar{} Präsentation Gruppe 4 und 5}\label{sitzung-am-11.07.-pruxe4sentation-gruppe-4-und-5}}
+\addcontentsline{toc}{subsection}{11. Sitzung am 11.07. \textbar{} Präsentation Gruppe 4 und 5}
+
+\textbf{Textarbeit}
+
+Lesetext für alle:
+
+\textbf{Projektarbeit}
+
+\begin{itemize}
+\tightlist
+\item
+  Präsentation Gruppe 4
+\item
+  Präsentation Gruppe 5
+\end{itemize}
+
+\hypertarget{sitzung-am-18.07.-abschlussitzung}{%
+\subsection*{12. Sitzung am 18.07. \textbar{} Abschlussitzung}\label{sitzung-am-18.07.-abschlussitzung}}
+\addcontentsline{toc}{subsection}{12. Sitzung am 18.07. \textbar{} Abschlussitzung}
+
+Zusammenfassung, Reflexion, Besprechung Themenideen Hausarbeit
+
+\hypertarget{literatur}{%
+\section*{Literatur}\label{literatur}}
+\addcontentsline{toc}{section}{Literatur}
+
+\hypertarget{refs}{}
+\begin{CSLReferences}{1}{0}
+\leavevmode\vadjust pre{\hypertarget{ref-Dzudzek20Urbane-G}{}}%
+Dzudzek, Iris, und Anke Strüver. 2020. {„Urbane Gesundheitsgerechtigkeit``}. \emph{Geographische Zeitschrift} 108 (4): 249--71. \url{https://doi.org/10.25162/gz-2020-0005}.
+
+\end{CSLReferences}
+
+\end{document}
