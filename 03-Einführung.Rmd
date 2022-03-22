@@ -1,3 +1,5 @@
-# Einführung
+# Einführung {.unnumbered}
 
-Sitzung am 13.04.2021
+## 1. Sitzung am 25.04. -- Einführung {.unnumbered}
+
+In der ersten Sitzung besprechen wir Seminarplan, Seminarorganisation und Leistungsanforderungen. Wir verabreden die Termine für Präsentationen der Teilnehmer:innen.

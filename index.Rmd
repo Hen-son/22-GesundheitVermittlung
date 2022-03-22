@@ -1,16 +1,37 @@
 ---
-title: "Politische Geographie und Stadt"
-subtitle: "Masterseminar"
-affiliation: "Humboldt-Universität zu Berlin"
-author: "Dr. rer. habil. Henning Füller"
-date: "Sommersemester 2021"
+lang: de
+title: "Studienprojekt Gesundheitsgerechtigkeit - Kritik und Vermittlung"
+header-includes: 
+  \AtBeginDocument{\renewcommand{\contentsname}{Seminarplan}}
+  \usepackage{titling}
+  \pretitle{\begin{center}
+  \hfill\includegraphics[width=1.5in]{husiegel.pdf}\LARGE\\\vspace{0.8cm}}
+  \posttitle{\end{center}}  
+
+subtitle: "Institut für Soziologie & Geographisches Institut, Humboldt-Universität zu Berlin, SoSe 2022"
+author: 
+ - PD Dr. Henning Füller
+ - PD Dr. Henrik Lebuhn
 site: "bookdown::bookdown_site"
+
+output:
+  bookdown::pdf_book:
+    keep_tex: true
+  word_document:
+    reference_docx: default
+urlcolor: blue
+
 bibliography: "/Users/fuellerh/Documents/Bibdesk/GesamtBib.bib"
 ---
 
+\newpage
 
-# Allgemeines {-}
+# Allgemeines {.unnumbered}
 
-- Seminarorganisation erfolgt über Moodle
+- Seminarorganisation erfolgt über Moodle - [Gesundheitsgerechtigkeit - Kritik und Vermittlung](https://moodle.hu-berlin.de/course/view.php?id=110268) (Einschreibeschlüssel: Virchow).
 
-- Das Semianr findet wöchentlich über Zoom statt. 
+- Das Seminar findet wöchentlich Montags von 10:15 Uhr bis 13:45 Uhr statt. Raum: 
+
+- Als unterstützendes Whiteboard für die Visualisierung der Diskussion nutzen wir das [Miroboard - SP Gesundheitsgerechtigkeit](https://miro.com/app/board/uXjVOF6MyAc=/?invite_link_id=891179698806).
+
+
