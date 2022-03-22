@@ -20,39 +20,47 @@ In der ersten inhaltlichen Sitzung verschaffen wir uns einen grundlegenden Einbl
 -
 
 
-## 3. Sitzung am 09.05. | Visualisierung des Sozialen  {.unnumbered}
+## 3. Sitzung am 09.05. | Posthumane Geographien der Gesundheit  {.unnumbered}
 
-In dieser Sitzung setzen wir uns mit
+
 
 
 ### Textarbeit
+
+**Lesetext für alle**
+
+- Duff, Cameron. 2018. After Posthumanism. Health geographies of networks and assemblages. In: *Routledge Handbook of Health Geography*, hg. von Valorie A. Crooks, Gavin J. Andrews, und Jamie Pearce, 137--143. London: Routledge. doi:[10.4324/9781315104584](https://doi.org/10.4324/9781315104584).
+
+**Referat**
+
+- Plädoyer für eine biosoziale Geographie der Gesundheit: Prior, Lucy, David Manley und Clive E. Sabel. [-@Prior18Biosocia]. Biosocial health geography: New „exposomic" geographies of health and place. *Progress in Human Geography* 43, Nr. 3: 531--552. doi:[10.1177/0309132518772644](https://doi.org/10.1177/0309132518772644).
+
+
+
+### Projektarbeit
+
+
+
+## 4. Sitzung am 16.05. | Visualisierung des Sozialen  / Planung der Projekte {.unnumbered}
+
+In dieser Sitzung schaffen wir die Grundlage für eine kritische Auseinandersetzung mit räumlichen Determinanten von Gesundheit in der Stadt. Wie lassen sich biosoziale Phänomene darstellen? Welchen Einfluss haben die Werkzeuge der Messung, Kategorisierung und Visualisierung?
+
+### Textarbeit
+
 **Lesetexte für alle:**
 
 - Grundlegender Aufsatz zu dem ‚Doppelschlag‘ kritischer Kartographie: Kritik der Macht von Karten und Entwicklung kritischer Karten: Crampton, Jeremy W. und John Krygier. [-@Crampton05An-Intro]. An Introduction to Critical Cartography. *ACME* 4, Nr. 1: 11--33.
--
 
 
-## Projektarbeit
+**Referat**
 
-**Textarbeit**
-- Mesquita, André. [-@Mesquita18Counter]. Counter-Cartographies. Politics, Art and the Insurrection of Maps. In: *This is not an Atlas. A Global Collection of Counter-Cartographies*, hg. von Orangotango, 26--30. Bielefeld: transcript.
-
-**Fallbeispiel**
-- Umwelteatlas Berlin ([https://www.berlin.de/umweltatlas/](https://www.berlin.de/umweltatlas/))
+- Konzept und Beispiele einer ‚Gegen-Kartographie‘: Mesquita, André. [-@Mesquita18Counter]. Counter-Cartographies. Politics, Art and the Insurrection of Maps. In: *This is not an Atlas. A Global Collection of Counter-Cartographies*, hg. von Orangotango, 26--30. Bielefeld: transcript.
 
 
-## 4. Sitzung am 16.05. | Didaktik und Planung der Projekte {.unnumbered}
 
-Did
+### Projektarbeit
 
-Externe Beteiligung
 
-Gruppeneinteilung
 
-**Textarbeit**
-
-Lesetext für alle:
-
-**Projektarbeit**
 
 # Literatur
