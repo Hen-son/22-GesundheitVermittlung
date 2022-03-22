@@ -2,28 +2,43 @@
 
 ## 2. Sitzung am 02.05. | Gesundheit und Ungleichheit in der Stadt  {.unnumbered}
 
-Gesundheit und Ungleichheit in der Stadt
+In der ersten inhaltlichen Sitzung verschaffen wir uns einen grundlegenden Einblick in Perspektive der Sozialepidemiologie. Gesundheit ist hier als ein kollektives Phänomen interessant und im Vordergrund stehen die gesellschaftlichen Ursachen, die Verteilung und die Folgen von Gesundheit und Krankheit.
 
-Kritische Sozialepidemiologie
+### Textarbeit
 
-**Textarbeit**
+**Lesetexte für alle:**
 
-Lesetext für alle: [@Dzudzek20Urbane-G]
+- Einführung in das Konzept der Sozialepidemiologie; Unterscheidung Pathogenese/Salutogenese: Schott, Thomas und Benjamin Kuntz. [-@Schott11Sozialep]. Sozialepidemiologie: Über die Wechselwirkungen von Gesundheit und Gesellschaft. In: *Die Gesellschaft und ihre Gesundheit*, 159--171. Wiesbaden: VS Verlag für Sozialwissenschaften. doi:[10.1007/978-3-531-92790-9_8](https://doi.org/10.1007/978-3-531-92790-9_8).
+- Zuspitzung kritischer Sozialepidemiologie für die Stadtforschung: Dzudzek, Iris und Anke Strüver. [-@Dzudzek20Urbane-G]. Urbane Gesundheitsgerechtigkeit. *Geographische Zeitschrift* 108, Nr. 4: 249--271. doi:[10.25162/gz-2020-0005](https://doi.org/10.25162/gz-2020-0005).
 
-**Projektarbeit**
+**Referat**
 
+- Vorschlag einer relationalen Perspektive auf Körper/Gesellschaft/Umwelt: Pálsson, Gı́sli. [-@Palsson13Ensemble]. Ensembles of biosocial relations. In: *Biosocial becomings: integrating social and biological anthropology*, hg. von Tim Ingold und Pálsson Gı́sli. Cambridge und New York: Cambridge University Press.  
+
+### Projektarbeit
+
+-
 
 
 ## 3. Sitzung am 09.05. | Visualisierung des Sozialen  {.unnumbered}
 
-Visualisierung des Sozialen - thematische Kartographie und ihre Fallstricke
+In dieser Sitzung setzen wir uns mit
+
+
+### Textarbeit
+**Lesetexte für alle:**
+
+- Grundlegender Aufsatz zu dem ‚Doppelschlag‘ kritischer Kartographie: Kritik der Macht von Karten und Entwicklung kritischer Karten: Crampton, Jeremy W. und John Krygier. [-@Crampton05An-Intro]. An Introduction to Critical Cartography. *ACME* 4, Nr. 1: 11--33.
+-
+
+
+## Projektarbeit
 
 **Textarbeit**
+- Mesquita, André. [-@Mesquita18Counter]. Counter-Cartographies. Politics, Art and the Insurrection of Maps. In: *This is not an Atlas. A Global Collection of Counter-Cartographies*, hg. von Orangotango, 26--30. Bielefeld: transcript.
 
-Lesetext für alle: 
-
-**Projektarbeit**
-
+**Fallbeispiel**
+- Umwelteatlas Berlin ([https://www.berlin.de/umweltatlas/](https://www.berlin.de/umweltatlas/))
 
 
 ## 4. Sitzung am 16.05. | Didaktik und Planung der Projekte {.unnumbered}
@@ -36,13 +51,8 @@ Gruppeneinteilung
 
 **Textarbeit**
 
-Lesetext für alle: 
+Lesetext für alle:
 
 **Projektarbeit**
 
-
-
-
-
-
-
+# Literatur
