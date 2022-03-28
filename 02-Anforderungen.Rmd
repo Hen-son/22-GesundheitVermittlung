@@ -4,21 +4,14 @@ Bei einem Studienprojekt steht die projekthafte Erarbeitung im Vordergrund. Zent
 
 ## Überblick Leistungsanforderungen {.unlisted .unnumbered}
 
-::hier noch anpassen/überarbeiten::
 
+1. **Pflichtlektüre** zu jeder Sitzung ist verpflichtend von allen zu lesen als Basis für die Diskussion.
 
-1. **Pflichtlektüre** Zu jeder Sitzung ist ein Text angegeben (ca. 20 - 40 Seiten), der verpflichtend von allen zu lesen ist als Basis für die Diskussion.
+2. **schriftlicher Lektürekommentar** oder **Kurzreferat** Jede/r Teilnehmer*in schreibt im Laufe des Seminars drei kurze Lektürekommentare (ca. 1 Seite) zu einer der angegebenen Pflichtlektüren oder bereitet zu einer Sitzung einen kurzen mündlichen Input zu einem der ergänzenden Texte vor. Keine Textzusammenfassung, sondern eigene Fragen bzw. Kritik/Kommentare als Anstoß für die Diskussion. Die schriftlichen Kommentare/Präsentationen des mündlichen Inputs sollen am Tag vor der betreffenden Sitzung selbständig auf Moodle bereit gestellt werden.
 
-2. **Lektüreimpuls und Kommentar** Zu der Pflichtlektüre ist jeweils ein Lektüreimpuls angegeben. Das sind zumeist zentrale Zitate oder Begriffe aus dem jeweiligen Text. Jede/r Teilnehmer*in formuliert eine kurze Antwort auf diesen Impuls. Die Antworten werden über Moodle ausgetauscht und gegenseitig kommentiert. Diese Auseinandersetzung im Vorfeld informiert und strukturiert die Diskussion im Seminar.  
+3. **Modulabschlussprüfung** Das Modul wird mit einer Projektarbeit abgeschlossen (Gruppenarbeit). Ziel ist Lehrmaterial zu erarbeiten, dass auf dem Berliner Bildungsserver für Lehrkräfte in Sekundarschulen zur Unterrichtsvorbereitung genutzt werden kann.
 
-3. **Referat** Zu den meisten Sitzungen ist ein weiterführender Text angegeben. Die Lektüre ist empfohlen aber optional. Zu einer Sitzung bereitet jede/r Teilnehmer*in einen kurzen Input vor, der auf diesem zusätzlichen Text basiert und ggf. weitere eigene Recherche zum Thema umfasst.  
-
--	Mündlicher Input (Dauer max.: 30 min.) zum Referatstext, dabei soll - soweit möglich - an den Basistext angeknüpft werden.
--	Allgemeine Leitfragen für den Input: Was sind die zentralen Fragestellungen, Themen und Argumente des Textes? Inwiefern ist der Entstehungskontext des Textes zu berücksichtigen? Wie stehen der Referatstext und der Basistext miteinander in Verbindung? Wo besteht Ihrer Meinung nach Diskussionsbedarf?  
-
-4. **Modulabschlussprüfung** Das Modul wird mit einer Prüfung in Form einer wissenschaftlichen Hausarbeit abgeschlossen. In der Hausarbeit wird eine Aspekt der Diskussion im Seminar aufgegriffen und unter Einbezug von weiterer Literatur vertieft (25.000 - 30.000 Zeichen).  
-
-- Das Thema kann im Rahmen der Seminarinhalte in vorausgehender Absprache frei gewählt werden
-- Abgabe als pdf bis zum 30.03.2022 via Moodle
+- Thema und Umfang wird gemeinsam im Seminar konkretisiert.
+- Abgabe als pdf bis zum 30.09.2022 via Moodle
 
 \pagebreak

@@ -3,3 +3,12 @@
 ## 1. Sitzung am 25.04. -- Einführung {.unnumbered}
 
 In der ersten Sitzung besprechen wir Seminarplan, Seminarorganisation und Leistungsanforderungen. Wir verabreden die Termine für Präsentationen der Teilnehmer:innen.
+
+
+### Textarbeit {.unnumbered}
+
+**Lesetexte für alle:**
+
+- Einführung in das Konzept der Sozialepidemiologie; Unterscheidung Pathogenese/Salutogenese:
+
+    Schott, Thomas und Benjamin Kuntz. [-@Schott11Sozialep]. Sozialepidemiologie: Über die Wechselwirkungen von Gesundheit und Gesellschaft. In: *Die Gesellschaft und ihre Gesundheit*, 159--171. Wiesbaden: VS Verlag für Sozialwissenschaften. doi:[10.1007/978-3-531-92790-9_8](https://doi.org/10.1007/978-3-531-92790-9_8).

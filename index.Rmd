@@ -6,7 +6,7 @@ header-includes:
   \usepackage{titling}
   \pretitle{\begin{center}
   \hfill\includegraphics[width=1.5in]{husiegel.pdf}\LARGE\\\vspace{0.8cm}}
-  \posttitle{\end{center}}  
+  \posttitle{\end{center}}
 
 subtitle: "Institut für Soziologie & Geographisches Institut, Humboldt-Universität zu Berlin, SoSe 2022"
 author: 
@@ -17,10 +17,12 @@ site: "bookdown::bookdown_site"
 output:
   bookdown::pdf_book:
     keep_tex: true
+    latex_engine: xelatex
   word_document:
     reference_docx: default
 urlcolor: blue
 
+delete_merged_file: true
 bibliography: "/Users/fuellerh/Documents/Bibdesk/GesamtBib.bib"
 ---
 

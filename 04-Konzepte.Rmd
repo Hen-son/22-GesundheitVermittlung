@@ -1,66 +1,90 @@
 # Konzepte {.unnumbered}
 
-## 2. Sitzung am 02.05. | Gesundheit und Ungleichheit in der Stadt  {.unnumbered}
+## 2. Sitzung am 02.05. | Gesundheit und Ungleichheit {.unnumbered}
 
 In der ersten inhaltlichen Sitzung verschaffen wir uns einen grundlegenden Einblick in Perspektive der Sozialepidemiologie. Gesundheit ist hier als ein kollektives Phänomen interessant und im Vordergrund stehen die gesellschaftlichen Ursachen, die Verteilung und die Folgen von Gesundheit und Krankheit.
 
-### Textarbeit
+### Textarbeit {.unnumbered}
 
-**Lesetexte für alle:**
+**Lesetext für alle:**
 
-- Einführung in das Konzept der Sozialepidemiologie; Unterscheidung Pathogenese/Salutogenese: Schott, Thomas und Benjamin Kuntz. [-@Schott11Sozialep]. Sozialepidemiologie: Über die Wechselwirkungen von Gesundheit und Gesellschaft. In: *Die Gesellschaft und ihre Gesundheit*, 159--171. Wiesbaden: VS Verlag für Sozialwissenschaften. doi:[10.1007/978-3-531-92790-9_8](https://doi.org/10.1007/978-3-531-92790-9_8).
-- Zuspitzung kritischer Sozialepidemiologie für die Stadtforschung: Dzudzek, Iris und Anke Strüver. [-@Dzudzek20Urbane-G]. Urbane Gesundheitsgerechtigkeit. *Geographische Zeitschrift* 108, Nr. 4: 249--271. doi:[10.25162/gz-2020-0005](https://doi.org/10.25162/gz-2020-0005).
+- Gesundheit als eine zentrale Dimension gesellschaftlicher Ungleichheit. Vorschlag einer kritischen sozialepidemiologischen Forschungsagenda:
 
-**Referat**
+  Krieger, Nancy. [-@Krieger19A-Critic]. A Critical Research Agenda for Social Justice and Public Health: An Ecosocial Proposal. 531\--552. In: *Social Injustice and Public Health*, hg. von Barry S. Levy und Heather L. McStowe. Oxford; New York: Oxford University Press.   
 
-- Vorschlag einer relationalen Perspektive auf Körper/Gesellschaft/Umwelt: Pálsson, Gı́sli. [-@Palsson13Ensemble]. Ensembles of biosocial relations. In: *Biosocial becomings: integrating social and biological anthropology*, hg. von Tim Ingold und Pálsson Gı́sli. Cambridge und New York: Cambridge University Press.  
+**weitere Lesetexte**
+(mindestens einer dieser Texte zusätzlich verpflichtend von Allen zu lesen)
 
-### Projektarbeit
+- Vorschlag einer relationalen Perspektive auf Körper/Gesellschaft/Umwelt:
 
--
-
-
-## 3. Sitzung am 09.05. | Posthumane Geographien der Gesundheit  {.unnumbered}
+  Pálsson, Gísli. [-@Palsson13Ensemble]. Ensembles of biosocial relations. In: *Biosocial becomings: integrating social and biological anthropology*, hg. von Tim Ingold und Pálsson Gísli. Cambridge und New York: Cambridge University Press.
 
 
+### Projektarbeit {.unnumbered}
+
+- Kennenlernen über Stadtplan-Spiel
+- Diskussion entlang aktueller Zeitungsartikel
 
 
-### Textarbeit
+## 3. Sitzung am 09.05. | Umweltgerechtigkeit in der Stadt {.unnumbered}
 
-**Lesetext für alle**
+In dieser Sitzung wollen wir uns kritisch mit dem Ansatz der gesundheitsfördernden Raumplanung auseinander setzen. Wie lässt sich Gesundheit in der Stadt messen und planerisch bearbeiten? Was sind Fallstricke dabei?
 
-- Duff, Cameron. 2018. After Posthumanism. Health geographies of networks and assemblages. In: *Routledge Handbook of Health Geography*, hg. von Valorie A. Crooks, Gavin J. Andrews, und Jamie Pearce, 137--143. London: Routledge. doi:[10.4324/9781315104584](https://doi.org/10.4324/9781315104584).
+### Textarbeit {.unnumbered}
 
-**Referat**
+**Pflichtlektüre**
 
-- Plädoyer für eine biosoziale Geographie der Gesundheit: Prior, Lucy, David Manley und Clive E. Sabel. [-@Prior18Biosocia]. Biosocial health geography: New „exposomic" geographies of health and place. *Progress in Human Geography* 43, Nr. 3: 531--552. doi:[10.1177/0309132518772644](https://doi.org/10.1177/0309132518772644).
+- Kritische Auseinandersetzung mit der aktuellen Bearbeitung von Gesundheit in der Stadtplanung. Vorstellung des SUHEI (Spatial Urban Health Equity Indicators) Modells – derzeit ein dominantes Screening-Werkzeug um das Leitbild einer gesundheitsfördernden räumlichen Planung umzusetzen:
+
+  Köckler, Heike, Daniel Simon, Kerstin Agatz und Johannes Flacke. [-@Kockler20Gesundhe]. Gesundheitsfördernde Stadtentwicklung. *Informationen zur Raumentwicklung* 47, Nr. 1: 96--109.
+
+**weitere Lesetexte**
+(mindestens einer dieser Texte zusätzlich verpflichtend von Allen zu lesen)
+
+- Plädoyer für eine städtebauliche Aufwertungsstrategie, die Gesundheitsförderung und soziale Gerechtigkeit gleichermaßen im Auge behält
+
+  Wolch, Jennifer R., Jason Byrne und Joshua P. Newell. [-@Wolch14Urban]. Urban green space, public health, and environmental justice: The challenge of making cities ‚just green enough'. *Landscape and Urban Planning* 125. doi:10.1016/j.landurbplan.2014.01.017.
+
+- Demenzerkrankung und besondere Bedarfe in der Stadtplanung
+
+  Biglieri, Samantha. [-@Biglieri21Examinin]. Examining Everyday Outdoor Practices in Suburban Public Space: The Case for an Expanded Definition of Care as an Analytical Framework. In: *Care and the City. Encounters with Urban Studies*. London: Routldege.
+
+
+### Projektarbeit {.unnumbered}
+
+- Vorstellung Bildungsserver Berlin/Brandenburg
+- Gruppenfindung / Festlegung der Themen
 
 
 
-### Projektarbeit
 
-
-
-## 4. Sitzung am 16.05. | Visualisierung des Sozialen  / Planung der Projekte {.unnumbered}
+## 4. Sitzung am 16.05. | Visualisierung des Sozialen {.unnumbered}
 
 In dieser Sitzung schaffen wir die Grundlage für eine kritische Auseinandersetzung mit räumlichen Determinanten von Gesundheit in der Stadt. Wie lassen sich biosoziale Phänomene darstellen? Welchen Einfluss haben die Werkzeuge der Messung, Kategorisierung und Visualisierung?
 
-### Textarbeit
+### Textarbeit {.unnumbered}
 
-**Lesetexte für alle:**
+**Lesetext für alle:**
 
-- Grundlegender Aufsatz zu dem ‚Doppelschlag‘ kritischer Kartographie: Kritik der Macht von Karten und Entwicklung kritischer Karten: Crampton, Jeremy W. und John Krygier. [-@Crampton05An-Intro]. An Introduction to Critical Cartography. *ACME* 4, Nr. 1: 11--33.
+- Grundlegender Aufsatz zu dem ‚Doppelschlag‘ kritischer Kartographie – Kritik der Macht von Karten und Entwicklung kritischer Karten:
 
-
-**Referat**
-
-- Konzept und Beispiele einer ‚Gegen-Kartographie‘: Mesquita, André. [-@Mesquita18Counter]. Counter-Cartographies. Politics, Art and the Insurrection of Maps. In: *This is not an Atlas. A Global Collection of Counter-Cartographies*, hg. von Orangotango, 26--30. Bielefeld: transcript.
+  Crampton, Jeremy W. und John Krygier. [-@Crampton05An-Intro]. An Introduction to Critical Cartography. *ACME* 4, Nr. 1: 11--33.
 
 
+**weitere Lesetexte**
+(mindestens einer dieser Texte zusätzlich verpflichtend von Allen zu lesen)
 
-### Projektarbeit
+- Konzept und Beispiele einer ‚Gegen-Kartographie‘:
+
+  Mesquita, André. [-@Mesquita18Counter]. Counter-Cartographies. Politics, Art and the Insurrection of Maps. In: *This is not an Atlas. A Global Collection of Counter-Cartographies*, hg. von Orangotango, 26--30. Bielefeld: transcript.
+
+- Mit Karten werden Konflikte ausgetragen. Das Beispiel Tempelhofer Feld
+
+  Bittner, Christian und Boris Michel. [-@Bittner14Kritische]. Kritische Kartographien der Stadt. In: *Handbuch kritische Stadtgeographie*, hg. von Bernd Belina, Matthias Naumann, und Anke Strüver, 64--70. Westfälisches Dampfboot.
 
 
 
+### Projektarbeit {.unnumbered}
 
-# Literatur
+- Diskussion von Karten-Beispielen (angefr. Exkurs Robert Viehf)
+- Planung der Projekte // angefr. Gespräch mit Hendrik Struck (Herrmann-Hesse-Gymnasium)

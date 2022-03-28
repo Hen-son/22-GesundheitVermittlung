@@ -6,48 +6,31 @@ output:
 # Projekt {.unnumbered}
 
 
+## 7. Sitzung am 13.06. | Start Projektphase {.unnumbered}
+-- _Keine Präsenzsitzung_ --
 
-## 7. Sitzung am 13.05. | Start Projektphase {.unnumbered}
+### Projektarbeit {.unnumbered}
 
-Themen der Projektgruppen festlegen
-
-Rahmen diskutieren
-
-**Textarbeit**
-
-Lesetext für alle: 
-
-**Projektarbeit**
-
-
+- eigenständige Forschung / Recherche
 
 ## 8. Sitzung am 20.06. |  eigenständige Projektarbeit {.unnumbered}
 
-**Textarbeit**
-
-Lesetext für alle: 
-
-**Projektarbeit**
+### Projektwerkstatt
+- Vorstellung des aktuellen Stands in Einzelgesprächen der Gruppen mit den Dozenten
 
 ## 9. Sitzung am 27.06. |  {.unnumbered}
+-- _Keine Präsenzsitzung_ --
 
+### Projektarbeit {.unnumbered}
 
-**Textarbeit**
-
-Lesetext für alle: 
-
-**Projektarbeit**
-
+- eigenständige Forschung / Recherche
 
 
 ## 10. Sitzung am 04.07. | Präsentation Gruppe 1, Gruppe 2 und 3  {.unnumbered}
 
-**Textarbeit**
 
-Lesetext für alle: 
+### Projektarbeit {.unnumbered}
 
-**Projektarbeit**
- 
 - Präsentation Gruppe 1
 - Präsentation Gruppe 2
 - Präsentation Gruppe 3
@@ -56,18 +39,14 @@ Lesetext für alle:
 ## 11. Sitzung am 11.07. | Präsentation Gruppe 4 und 5  {.unnumbered}
 
 
- **Textarbeit**
-
-Lesetext für alle: 
-
-**Projektarbeit**
+### Projektarbeit {.unnumbered}
 
 - Präsentation Gruppe 4
 - Präsentation Gruppe 5
+- Präsentation Gruppe 6
 
 
 ## 12. Sitzung am 18.07. | Abschlussitzung {.unnumbered}
-
 
 
 Zusammenfassung, Reflexion, Besprechung Themenideen Hausarbeit
