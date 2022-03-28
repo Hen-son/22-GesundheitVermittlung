@@ -1,7 +1,7 @@
 ---
 lang: de
 title: "Studienprojekt Gesundheitsgerechtigkeit - Kritik und Vermittlung"
-header-includes: 
+header-includes:
   \AtBeginDocument{\renewcommand{\contentsname}{Seminarplan}}
   \usepackage{titling}
   \pretitle{\begin{center}
@@ -9,9 +9,13 @@ header-includes:
   \posttitle{\end{center}}
 
 subtitle: "Institut für Sozialwissenschaften & Geographisches Institut, Humboldt-Universität zu Berlin, SoSe 2022"
-author: 
- - PD Dr. Henning Füller
- - PD Dr. Henrik Lebuhn
+author:
+ - PD Dr. Henning Füller (henning.fueller@geo.hu-berlin.de)
+ - PD Dr. Henrik Lebuhn (henrik.lebuhn@sowi.hu-berlin.de)
+
+
+date: "wöchentlich, Montag 10:00 Uhr - 14:00 Uhr, Institut für Sozialwissenschaften, Universitätsstrasse 3b, Raum 001"
+
 site: "bookdown::bookdown_site"
 
 output:
@@ -32,8 +36,6 @@ bibliography: "/Users/fuellerh/Documents/Bibdesk/GesamtBib.bib"
 
 - Seminarorganisation erfolgt über Moodle - [Gesundheitsgerechtigkeit - Kritik und Vermittlung](https://moodle.hu-berlin.de/course/view.php?id=110268) (Einschreibeschlüssel: Virchow).
 
-- Das Seminar findet wöchentlich Montags von 10:15 Uhr bis 13:45 Uhr statt. Raum: 
+- Das Seminar findet wöchentlich Montags von 10:15 Uhr bis 13:45 Uhr statt. Raum:
 
 - Als unterstützendes Whiteboard für die Visualisierung der Diskussion nutzen wir das [Miroboard - SP Gesundheitsgerechtigkeit](https://miro.com/app/board/uXjVOF6MyAc=/?invite_link_id=891179698806).
-
-

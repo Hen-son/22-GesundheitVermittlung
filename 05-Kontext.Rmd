@@ -1,6 +1,6 @@
 # Kontext {.unnumbered}
 
-## 5. Sitzung am 23.05. | Berlin I Gesundheit Bottom-up - Exkursion Gesundheitszentrum {.unnumbered}
+## 5. Sitzung am 23.05. | Berlin I Gesundheit bottom-up - Exkursion Gesundheitszentrum {.unnumbered}
 
 
 ### Textarbeit {.unnumbered}
@@ -17,13 +17,9 @@
 
 
 
-## 6. Sitzung am 30.05. | Berlin II Gesundheit Top Down - Atlas Umweltgerechtigkeit {.unnumbered}
+## 6. Sitzung am 30.05. | Berlin II Gesundheit top-down - Atlas Umweltgerechtigkeit {.unnumbered}
 
 ### Textarbeit  {.unnumbered}
-
-Lesetext für alle:
-
-### Projektarbeit {.unnumbered}
 
 **Fallbeispiel Umweltgerechtigkeit**
 
@@ -31,6 +27,11 @@ Debatte um Umweltgerechtigkeit am Beispiel Berlin
 
 - Plattform Umweltgerechtigkeit in Berlin – [https://www.umweltgerechtigkeit-berlin.de](https://www.umweltgerechtigkeit-berlin.de)
 - Böhme, Christa und Thomas Franke. [-@Bohme21Umweltge]. Umweltgerechtigkeit und Städtebauförderung. *vhw FWS* 2: 71--74.
+
+### Projektarbeit {.unnumbered}
+
+- Themen der Projektgruppen festlegen
+- Rahmen diskutieren
 
 
 ## Sitzung am 06.06 entfällt (Pfingsten) {.unnumbered}
