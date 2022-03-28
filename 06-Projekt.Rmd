@@ -6,19 +6,19 @@ output:
 # Projekt {.unnumbered}
 
 
-## 7. Sitzung am 13.06. | Start Projektphase {.unnumbered}
+## 7. Sitzung am 13.06. |  eigenständige Projektarbeit {.unnumbered}
 -- _Keine Präsenzsitzung_ --
 
 ### Projektarbeit {.unnumbered}
 
 - eigenständige Forschung / Recherche
 
-## 8. Sitzung am 20.06. |  eigenständige Projektarbeit {.unnumbered}
+## 8. Sitzung am 20.06. |  Werkstattsitzung  {.unnumbered}
 
-### Projektwerkstatt
+### Projektwerkstatt {.unnumbered}
 - Vorstellung des aktuellen Stands in Einzelgesprächen der Gruppen mit den Dozenten
 
-## 9. Sitzung am 27.06. |  {.unnumbered}
+## 9. Sitzung am 27.06. | eigenständige Projektarbeit {.unnumbered}
 -- _Keine Präsenzsitzung_ --
 
 ### Projektarbeit {.unnumbered}
@@ -36,7 +36,7 @@ output:
 - Präsentation Gruppe 3
 
 
-## 11. Sitzung am 11.07. | Präsentation Gruppe 4 und 5  {.unnumbered}
+## 11. Sitzung am 11.07. | Präsentation Gruppe 4, 5 und 6 {.unnumbered}
 
 
 ### Projektarbeit {.unnumbered}
@@ -46,7 +46,7 @@ output:
 - Präsentation Gruppe 6
 
 
-## 12. Sitzung am 18.07. | Abschlussitzung {.unnumbered}
+## 12. Sitzung am 18.07. | Abschlusssitzung {.unnumbered}
 
 
-Zusammenfassung, Reflexion, Besprechung Themenideen Hausarbeit
+Zusammenfassung, Reflexion, Planung der Projektarbeiten

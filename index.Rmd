@@ -8,7 +8,7 @@ header-includes:
   \hfill\includegraphics[width=1.5in]{husiegel.pdf}\LARGE\\\vspace{0.8cm}}
   \posttitle{\end{center}}
 
-subtitle: "Institut für Soziologie & Geographisches Institut, Humboldt-Universität zu Berlin, SoSe 2022"
+subtitle: "Institut für Sozialwissenschaften & Geographisches Institut, Humboldt-Universität zu Berlin, SoSe 2022"
 author: 
  - PD Dr. Henning Füller
  - PD Dr. Henrik Lebuhn
