@@ -15,9 +15,13 @@ In der ersten inhaltlichen Sitzung verschaffen wir uns einen grundlegenden Einbl
 **weitere Lesetexte**
 (mindestens einer dieser Texte zusätzlich verpflichtend von Allen zu lesen)
 
-- Vorschlag einer relationalen Perspektive auf Körper/Gesellschaft/Umwelt:
+  - Vorschlag einer relationalen Perspektive auf Körper/Gesellschaft/Umwelt:
 
   Pálsson, Gísli. [-@Palsson13Ensemble]. Ensembles of biosocial relations. In: *Biosocial becomings: integrating social and biological anthropology*, hg. von Tim Ingold und Pálsson Gísli. Cambridge und New York: Cambridge University Press.
+
+  - Urbane Gesundheit relational denken:
+
+  Bůžek, Richard, Iris Dzudzek, Susanne Hübl und Lisa Kamphaus. [-@Buzek22Wenn-die]. Wenn die Verhältnisse unter die Haut gehen. *sub\\urban. zeitschrift für kritische stadtforschung* 10, Nr. 1/2. doi:[10.36900/suburban.v10i1/2.702](https://doi.org/10.36900/suburban.v10i1/2.702).
 
 
 ### Projektarbeit {.unnumbered}
@@ -41,11 +45,11 @@ In dieser Sitzung wollen wir uns kritisch mit dem Ansatz der gesundheitsfördern
 **weitere Lesetexte**
 (mindestens einer dieser Texte zusätzlich verpflichtend von Allen zu lesen)
 
-- Plädoyer für eine städtebauliche Aufwertungsstrategie, die Gesundheitsförderung und soziale Gerechtigkeit gleichermaßen im Auge behält
+- Plädoyer für eine städtebauliche Aufwertungsstrategie, die Gesundheitsförderung und soziale Gerechtigkeit gleichermaßen im Auge behält:
 
   Wolch, Jennifer R., Jason Byrne und Joshua P. Newell. [-@Wolch14Urban]. Urban green space, public health, and environmental justice: The challenge of making cities ‚just green enough'. *Landscape and Urban Planning* 125. doi:10.1016/j.landurbplan.2014.01.017.
 
-- Demenzerkrankung und besondere Bedarfe in der Stadtplanung
+- Demenzerkrankung und besondere Bedarfe in der Stadtplanung:
 
   Biglieri, Samantha. [-@Biglieri21Examinin]. Examining Everyday Outdoor Practices in Suburban Public Space: The Case for an Expanded Definition of Care as an Analytical Framework. In: *Care and the City. Encounters with Urban Studies*. London: Routldege.
 
